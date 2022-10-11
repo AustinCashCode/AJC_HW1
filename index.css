@@ -1,0 +1,24 @@
+body {
+    background-color: aliceblue;
+}
+
+.center {
+    text-align: center;
+    
+}
+
+/*
+Adapted from:
+https://www.w3schools.com/howto/howto_css_image_center.asp
+*/
+.img_center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+
+  }
+
+p {
+    margin-right: 50%;
+}
